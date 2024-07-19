@@ -12,7 +12,7 @@ A simple password generator application built using Tkinter in Python.
 
 1. Clone the repository:
 
-    git clone https://github.com/your-username/password-generator.git
+    git clone https://github.com/mahima16yadav/password-generator.git
    
     cd password-generator
 
